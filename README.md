@@ -1,7 +1,7 @@
 
 # ApiHotel  - Ricardo Ferrer
 
-Se necesita desarrollar un sistema para la Administración de alojamiento hoteles locales y Reserva de hoteles.
+Se necesita desarrollar un sistema Backend para la Administración de alojamiento hoteles locales y Reserva de hoteles.
 
 Manejo de arquitectura DDD, Principios SOLID, Clean Code y Patrones de diseño.
 
